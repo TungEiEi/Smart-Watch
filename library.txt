@@ -1,0 +1,13 @@
+#include <Adafruit_NeoPixel.h>
+#include <ESP8266WiFi.h>
+#include <WiFi.h>
+#include <NTPClient.h>
+#include <WiFiUdp.h>
+#include <Wire.h>
+#include <U8x8lib.h>
+#include <Adafruit_GFX.h>  
+#include <Adafruit_SSD1306.h>
+#include <Fonts/FreeMonoBold9pt7b.h>   
+#include <OneWire.h>
+#include <DallasTemperature.h>
+#include <PubSubClient.h>
